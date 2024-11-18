@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nome": "Produto/Serviço 1",
+    "tipo": "serviço",
+    "preco": 12
+  },
+  {
+    "id": 2,
+    "nome": "Produto/Serviço 2",
+    "tipo": "produto",
+    "preco": 14
+  },
+  {
+    "id": 3,
+    "nome": "Produto/Serviço 3",
+    "tipo": "serviço",
+    "preco": 16
+  },
+  {
+    "id": 4,
+    "nome": "Produto/Serviço 4",
+    "tipo": "produto",
+    "preco": 18
+  },
+  {
+    "id": 5,
+    "nome": "Produto/Serviço 5",
+    "tipo": "serviço",
+    "preco": 20
+  },
+  {
+    "id": 6,
+    "nome": "Produto/Serviço 6",
+    "tipo": "produto",
+    "preco": 22
+  },
+  {
+    "id": 7,
+    "nome": "Produto/Serviço 7",
+    "tipo": "serviço",
+    "preco": 24
+  },
+  {
+    "id": 8,
+    "nome": "Produto/Serviço 8",
+    "tipo": "produto",
+    "preco": 26
+  },
+  {
+    "id": 9,
+    "nome": "Produto/Serviço 9",
+    "tipo": "serviço",
+    "preco": 28
+  },
+  {
+    "id": 10,
+    "nome": "Produto/Serviço 10",
+    "tipo": "produto",
+    "preco": 30
+  },
+  {
+    "id": 11,
+    "nome": "Produto/Serviço 11",
+    "tipo": "serviço",
+    "preco": 32
+  },
+  {
+    "id": 12,
+    "nome": "Produto/Serviço 12",
+    "tipo": "produto",
+    "preco": 34
+  },
+  {
+    "id": 13,
+    "nome": "Produto/Serviço 13",
+    "tipo": "serviço",
+    "preco": 36
+  },
+  {
+    "id": 14,
+    "nome": "Produto/Serviço 14",
+    "tipo": "produto",
+    "preco": 38
+  },
+  {
+    "id": 15,
+    "nome": "Produto/Serviço 15",
+    "tipo": "serviço",
+    "preco": 40
+  },
+  {
+    "id": 16,
+    "nome": "Produto/Serviço 16",
+    "tipo": "produto",
+    "preco": 42
+  },
+  {
+    "id": 17,
+    "nome": "Produto/Serviço 17",
+    "tipo": "serviço",
+    "preco": 44
+  },
+  {
+    "id": 18,
+    "nome": "Produto/Serviço 18",
+    "tipo": "produto",
+    "preco": 46
+  },
+  {
+    "id": 19,
+    "nome": "Produto/Serviço 19",
+    "tipo": "serviço",
+    "preco": 48
+  },
+  {
+    "id": 20,
+    "nome": "Produto/Serviço 20",
+    "tipo": "produto",
+    "preco": 50
+  }
+]

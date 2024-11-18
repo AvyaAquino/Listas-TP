@@ -1,0 +1,20 @@
+{
+  "name": "atvi",
+  "version": "1.0.0",
+  "description": "Agenda CLI para o grupo WB",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/cli/main.ts",
+    "test": "node tests/*.test.js",
+    "clean": "rm -rf dist"
+  },
+  "keywords": ["agenda", "cli", "typescript"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}

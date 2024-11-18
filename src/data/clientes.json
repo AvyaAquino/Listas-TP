@@ -1,0 +1,697 @@
+[
+  {
+    "id": 1,
+    "nome": "Cliente 1",
+    "genero": "M",
+    "email": "cliente1@example.com",
+    "telefone": "123456781",
+    "consumo": [
+      {
+        "produtoId": 16,
+        "quantidade": 3,
+        "valor": 126
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Cliente 2",
+    "genero": "F",
+    "email": "cliente2@example.com",
+    "telefone": "123456782",
+    "consumo": [
+      {
+        "produtoId": 16,
+        "quantidade": 1,
+        "valor": 42
+      },
+      {
+        "produtoId": 7,
+        "quantidade": 1,
+        "valor": 24
+      },
+      {
+        "produtoId": 10,
+        "quantidade": 1,
+        "valor": 30
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Cliente 3",
+    "genero": "Outro",
+    "email": "cliente3@example.com",
+    "telefone": "123456783",
+    "consumo": [
+      {
+        "produtoId": 17,
+        "quantidade": 1,
+        "valor": 44
+      },
+      {
+        "produtoId": 13,
+        "quantidade": 3,
+        "valor": 108
+      },
+      {
+        "produtoId": 8,
+        "quantidade": 1,
+        "valor": 26
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Cliente 4",
+    "genero": "F",
+    "email": "cliente4@example.com",
+    "telefone": "123456784",
+    "consumo": [
+      {
+        "produtoId": 19,
+        "quantidade": 1,
+        "valor": 48
+      },
+      {
+        "produtoId": 3,
+        "quantidade": 3,
+        "valor": 48
+      },
+      {
+        "produtoId": 18,
+        "quantidade": 3,
+        "valor": 138
+      },
+      {
+        "produtoId": 17,
+        "quantidade": 3,
+        "valor": 132
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Cliente 5",
+    "genero": "M",
+    "email": "cliente5@example.com",
+    "telefone": "123456785",
+    "consumo": [
+      {
+        "produtoId": 1,
+        "quantidade": 3,
+        "valor": 36
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Cliente 6",
+    "genero": "Outro",
+    "email": "cliente6@example.com",
+    "telefone": "123456786",
+    "consumo": [
+      {
+        "produtoId": 9,
+        "quantidade": 3,
+        "valor": 84
+      },
+      {
+        "produtoId": 6,
+        "quantidade": 1,
+        "valor": 22
+      },
+      {
+        "produtoId": 5,
+        "quantidade": 1,
+        "valor": 20
+      },
+      {
+        "produtoId": 10,
+        "quantidade": 1,
+        "valor": 30
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Cliente 7",
+    "genero": "M",
+    "email": "cliente7@example.com",
+    "telefone": "123456787",
+    "consumo": [
+      {
+        "produtoId": 11,
+        "quantidade": 2,
+        "valor": 64
+      },
+      {
+        "produtoId": 8,
+        "quantidade": 2,
+        "valor": 52
+      },
+      {
+        "produtoId": 13,
+        "quantidade": 1,
+        "valor": 36
+      },
+      {
+        "produtoId": 7,
+        "quantidade": 3,
+        "valor": 72
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Cliente 8",
+    "genero": "F",
+    "email": "cliente8@example.com",
+    "telefone": "123456788",
+    "consumo": [
+      {
+        "produtoId": 11,
+        "quantidade": 3,
+        "valor": 96
+      },
+      {
+        "produtoId": 2,
+        "quantidade": 2,
+        "valor": 28
+      },
+      {
+        "produtoId": 3,
+        "quantidade": 1,
+        "valor": 16
+      },
+      {
+        "produtoId": 16,
+        "quantidade": 3,
+        "valor": 126
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Cliente 9",
+    "genero": "Outro",
+    "email": "cliente9@example.com",
+    "telefone": "123456789",
+    "consumo": [
+      {
+        "produtoId": 12,
+        "quantidade": 3,
+        "valor": 102
+      },
+      {
+        "produtoId": 13,
+        "quantidade": 2,
+        "valor": 72
+      },
+      {
+        "produtoId": 7,
+        "quantidade": 2,
+        "valor": 48
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Cliente 10",
+    "genero": "F",
+    "email": "cliente10@example.com",
+    "telefone": "1234567810",
+    "consumo": [
+      {
+        "produtoId": 17,
+        "quantidade": 2,
+        "valor": 88
+      },
+      {
+        "produtoId": 6,
+        "quantidade": 2,
+        "valor": 44
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Cliente 11",
+    "genero": "M",
+    "email": "cliente11@example.com",
+    "telefone": "1234567811",
+    "consumo": [
+      {
+        "produtoId": 2,
+        "quantidade": 1,
+        "valor": 14
+      },
+      {
+        "produtoId": 6,
+        "quantidade": 3,
+        "valor": 66
+      },
+      {
+        "produtoId": 6,
+        "quantidade": 3,
+        "valor": 66
+      },
+      {
+        "produtoId": 7,
+        "quantidade": 2,
+        "valor": 48
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Cliente 12",
+    "genero": "Outro",
+    "email": "cliente12@example.com",
+    "telefone": "1234567812",
+    "consumo": [
+      {
+        "produtoId": 15,
+        "quantidade": 2,
+        "valor": 80
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Cliente 13",
+    "genero": "M",
+    "email": "cliente13@example.com",
+    "telefone": "1234567813",
+    "consumo": [
+      {
+        "produtoId": 12,
+        "quantidade": 1,
+        "valor": 34
+      },
+      {
+        "produtoId": 8,
+        "quantidade": 2,
+        "valor": 52
+      },
+      {
+        "produtoId": 20,
+        "quantidade": 1,
+        "valor": 50
+      },
+      {
+        "produtoId": 18,
+        "quantidade": 1,
+        "valor": 46
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Cliente 14",
+    "genero": "F",
+    "email": "cliente14@example.com",
+    "telefone": "1234567814",
+    "consumo": [
+      {
+        "produtoId": 20,
+        "quantidade": 1,
+        "valor": 50
+      },
+      {
+        "produtoId": 16,
+        "quantidade": 3,
+        "valor": 126
+      },
+      {
+        "produtoId": 7,
+        "quantidade": 3,
+        "valor": 72
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Cliente 15",
+    "genero": "Outro",
+    "email": "cliente15@example.com",
+    "telefone": "1234567815",
+    "consumo": [
+      {
+        "produtoId": 5,
+        "quantidade": 1,
+        "valor": 20
+      },
+      {
+        "produtoId": 18,
+        "quantidade": 2,
+        "valor": 92
+      },
+      {
+        "produtoId": 16,
+        "quantidade": 3,
+        "valor": 126
+      },
+      {
+        "produtoId": 8,
+        "quantidade": 3,
+        "valor": 78
+      },
+      {
+        "produtoId": 18,
+        "quantidade": 2,
+        "valor": 92
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Cliente 16",
+    "genero": "F",
+    "email": "cliente16@example.com",
+    "telefone": "1234567816",
+    "consumo": [
+      {
+        "produtoId": 12,
+        "quantidade": 2,
+        "valor": 68
+      },
+      {
+        "produtoId": 9,
+        "quantidade": 2,
+        "valor": 56
+      },
+      {
+        "produtoId": 16,
+        "quantidade": 1,
+        "valor": 42
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Cliente 17",
+    "genero": "M",
+    "email": "cliente17@example.com",
+    "telefone": "1234567817",
+    "consumo": [
+      {
+        "produtoId": 9,
+        "quantidade": 3,
+        "valor": 84
+      },
+      {
+        "produtoId": 11,
+        "quantidade": 1,
+        "valor": 32
+      },
+      {
+        "produtoId": 16,
+        "quantidade": 1,
+        "valor": 42
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Cliente 18",
+    "genero": "Outro",
+    "email": "cliente18@example.com",
+    "telefone": "1234567818",
+    "consumo": [
+      {
+        "produtoId": 17,
+        "quantidade": 2,
+        "valor": 88
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Cliente 19",
+    "genero": "M",
+    "email": "cliente19@example.com",
+    "telefone": "1234567819",
+    "consumo": [
+      {
+        "produtoId": 5,
+        "quantidade": 3,
+        "valor": 60
+      },
+      {
+        "produtoId": 13,
+        "quantidade": 2,
+        "valor": 72
+      },
+      {
+        "produtoId": 2,
+        "quantidade": 1,
+        "valor": 14
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Cliente 20",
+    "genero": "F",
+    "email": "cliente20@example.com",
+    "telefone": "1234567820",
+    "consumo": [
+      {
+        "produtoId": 6,
+        "quantidade": 3,
+        "valor": 66
+      },
+      {
+        "produtoId": 19,
+        "quantidade": 3,
+        "valor": 144
+      },
+      {
+        "produtoId": 8,
+        "quantidade": 3,
+        "valor": 78
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Cliente 21",
+    "genero": "Outro",
+    "email": "cliente21@example.com",
+    "telefone": "1234567821",
+    "consumo": [
+      {
+        "produtoId": 16,
+        "quantidade": 2,
+        "valor": 84
+      },
+      {
+        "produtoId": 2,
+        "quantidade": 2,
+        "valor": 28
+      },
+      {
+        "produtoId": 3,
+        "quantidade": 2,
+        "valor": 32
+      },
+      {
+        "produtoId": 4,
+        "quantidade": 2,
+        "valor": 36
+      },
+      {
+        "produtoId": 12,
+        "quantidade": 1,
+        "valor": 34
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Cliente 22",
+    "genero": "F",
+    "email": "cliente22@example.com",
+    "telefone": "1234567822",
+    "consumo": [
+      {
+        "produtoId": 4,
+        "quantidade": 2,
+        "valor": 36
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Cliente 23",
+    "genero": "M",
+    "email": "cliente23@example.com",
+    "telefone": "1234567823",
+    "consumo": [
+      {
+        "produtoId": 9,
+        "quantidade": 1,
+        "valor": 28
+      },
+      {
+        "produtoId": 13,
+        "quantidade": 3,
+        "valor": 108
+      },
+      {
+        "produtoId": 19,
+        "quantidade": 2,
+        "valor": 96
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Cliente 24",
+    "genero": "Outro",
+    "email": "cliente24@example.com",
+    "telefone": "1234567824",
+    "consumo": [
+      {
+        "produtoId": 19,
+        "quantidade": 1,
+        "valor": 48
+      },
+      {
+        "produtoId": 5,
+        "quantidade": 3,
+        "valor": 60
+      },
+      {
+        "produtoId": 14,
+        "quantidade": 1,
+        "valor": 38
+      },
+      {
+        "produtoId": 4,
+        "quantidade": 3,
+        "valor": 54
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Cliente 25",
+    "genero": "M",
+    "email": "cliente25@example.com",
+    "telefone": "1234567825",
+    "consumo": [
+      {
+        "produtoId": 1,
+        "quantidade": 2,
+        "valor": 24
+      },
+      {
+        "produtoId": 1,
+        "quantidade": 3,
+        "valor": 36
+      },
+      {
+        "produtoId": 18,
+        "quantidade": 3,
+        "valor": 138
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Cliente 26",
+    "genero": "F",
+    "email": "cliente26@example.com",
+    "telefone": "1234567826",
+    "consumo": [
+      {
+        "produtoId": 1,
+        "quantidade": 3,
+        "valor": 36
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Cliente 27",
+    "genero": "Outro",
+    "email": "cliente27@example.com",
+    "telefone": "1234567827",
+    "consumo": [
+      {
+        "produtoId": 4,
+        "quantidade": 2,
+        "valor": 36
+      },
+      {
+        "produtoId": 4,
+        "quantidade": 2,
+        "valor": 36
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Cliente 28",
+    "genero": "F",
+    "email": "cliente28@example.com",
+    "telefone": "1234567828",
+    "consumo": [
+      {
+        "produtoId": 6,
+        "quantidade": 1,
+        "valor": 22
+      },
+      {
+        "produtoId": 2,
+        "quantidade": 2,
+        "valor": 28
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Cliente 29",
+    "genero": "M",
+    "email": "cliente29@example.com",
+    "telefone": "1234567829",
+    "consumo": [
+      {
+        "produtoId": 12,
+        "quantidade": 1,
+        "valor": 34
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Cliente 30",
+    "genero": "Outro",
+    "email": "cliente30@example.com",
+    "telefone": "1234567830",
+    "consumo": [
+      {
+        "produtoId": 16,
+        "quantidade": 2,
+        "valor": 84
+      },
+      {
+        "produtoId": 19,
+        "quantidade": 1,
+        "valor": 48
+      },
+      {
+        "produtoId": 15,
+        "quantidade": 2,
+        "valor": 80
+      },
+      {
+        "produtoId": 19,
+        "quantidade": 2,
+        "valor": 96
+      }
+    ]
+  }
+]
